@@ -1,2 +1,6 @@
 # my-template-java-maven-unit
-Java template with Maven &amp; Junit 5
+Overview
+Repository with preconfigured maven project with junit5 configuration on a board.
+
+Authors
+Sergii Bezrukov - finedefinition
